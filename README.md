@@ -1,14 +1,14 @@
-### Hey there, I'm Achilles 👋👋
+### Hey there, I'm Achilleas 
 
-## I'm a Student at the University of Aegean and a creative coder
-- Currently working on a web app for beekeepers 🐝
-- Studying at the Department of Product and Systems Design Engineering
+Recent graduate (M.Sc., Product and Systems Design Engineering, University of the Aegean), building full-stack web apps with TypeScript, React/Vue and PostgreSQL. Looking for a junior full-stack, frontend or QA automation role in Warsaw or remote.
 
+### Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-### Languages and Tools:
-
-<div>
-<img src="https://user-images.githubusercontent.com/72945457/227793172-39ecb85d-c9c5-4853-a1be-234861848289.png" height="50" />
-<img src="https://user-images.githubusercontent.com/72945457/227793441-1f2e7a6b-196f-4edd-af22-b0da8eb6ae6c.png" height="50" />
-<img src="https://user-images.githubusercontent.com/72945457/227792812-0aa9dfdf-61a0-4952-8d43-ca948d21f9d0.png" height="50" />
-<img src="https://user-images.githubusercontent.com/72945457/218341828-3c991013-abda-4883-a186-810f5a9e5a5e.png" height="50" /></div>
+📫 achillesrach@gmail.com · [rachoutis.me](https://rachoutis.me)
